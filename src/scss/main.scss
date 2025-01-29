@@ -45,3 +45,15 @@ video {
   font-weight: 400;
   line-height: 18px; /* 128.571% */
 }
+
+.button.is-active {
+  border-radius: 19px;
+  border: 2px solid #f00;
+  background: #f00;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px; /* 100% */
+}
